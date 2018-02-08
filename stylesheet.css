@@ -9,6 +9,7 @@ html {
 	height:100%;
 }
 
+
 body {
 	background-color: #fff
 	text-align:center;
@@ -29,29 +30,6 @@ h1 {
 	padding-top: 10px;
 	color: #c55000;
 }
-
-h2 {
-	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-weight: lighter;
-	font-size: 40px;
-	text-align: center;
-	padding-bottom: 10px;
-	color: #c55000;
-	margin-top: 0px; 
-    margin-bottom: 0px; 
-    line-height: 0px;
-}
-
-h3 {
-	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-size: 25px;
-	text-align: left;
-	padding-bottom: 10px;
-	padding-top: 10px;
-	padding-left: 100px;
-	color: #00829c;
-}
-
 
 
 table {
@@ -141,20 +119,6 @@ p {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	text-align: center;
-}
-
-
-ul{
-	list-style-type: circle;
-	margin: 10px;
-}
-
-li {
-	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-weight: stronger;
-	color: #001e24;
-	padding: 5px;
-	font-size: 18px;
 }
 
 
